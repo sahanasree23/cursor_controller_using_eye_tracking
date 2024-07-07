@@ -20,7 +20,7 @@ Requirements
 Installation
 
 1.	Clone the repository:
-git clone https://github.com/ sahanasree23/cursor_controller_using_eye_tracking.git 
+git clone https://github.com/sahanasree23/cursor_controller_using_eye_tracking.git
 cd Cursor_Controller_using_eye_tracking
-2.	Install the required packages:
+3.	Install the required packages:
    pip install opencv-python mediapipe pyautogui
